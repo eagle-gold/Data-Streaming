@@ -1,6 +1,6 @@
 # Real-time Stock Data Streaming and Analysis with Apache Flink
 
-This project is an Apache Flink application that continuously consumes and analyzes real-time stock market data. It leverages the RapidAPI to fetch stock prices for companies such as Tesla (TSLA), Netflix (NFLX). The application computes the average stock prices over sliding time windows, providing an aggregate view of market trends over short intervals.
+This project is an Apache Flink application that continuously consumes and analyzes real-time stock market data. It leverages the RapidAPI to fetch stock prices for companies such as Tesla (TSLA), Netflix (NFLX), Google (GOOG). The application computes the average stock prices over sliding time windows, providing an aggregate view of market trends over short intervals.
 
 ## Author
 - Ibrahim Traoré
