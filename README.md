@@ -35,7 +35,7 @@ sbt run
 python plot.py
 ````
 The output of visualisation should look similar to this,
-<img src="Figure.png"/>
+<img src="Figure_2.png"/>
 
 ## Usage
 
